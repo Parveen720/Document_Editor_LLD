@@ -1,0 +1,4 @@
+Hello, World!
+this is a real world document editor
+indented texxt after a new line
+[Image:picture.jpg]
